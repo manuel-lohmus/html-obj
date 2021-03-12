@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A convertor between js object and  HTML. HTML.querySelector() is supported.",
   "keywords": [
-    "Html",
+    "html",
     "object",
     "parse",
     "stringify",

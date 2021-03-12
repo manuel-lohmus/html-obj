@@ -1,5 +1,8 @@
 # html-obj: HTML library for browser and node.js
 
+[![npm-version](https://badgen.net/npm/v/html-obj)](https://www.npmjs.com/package/html-obj)
+[![npm-total-downloads](https://badgen.net/npm/dw/html-obj)](https://www.npmjs.com/package/html-obj)
+
 'html-obj' is a simple to use. 
 Converting HTML to an object is available in the browser and node.js.
 HTML.querySelector() is supported. 
