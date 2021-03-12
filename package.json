@@ -1,0 +1,40 @@
+{
+  "name": "html-obj",
+  "version": "1.0.0",
+  "description": "A convertor between js object and  HTML. HTML.querySelector() is supported.",
+  "keywords": [
+    "Html",
+    "object",
+    "parse",
+    "stringify",
+    "query",
+    "selector",
+    "javascript",
+    "json",
+    "cdata",
+    "convertor",
+    "convert-js",
+    "html-js"
+  ],
+  "main": "index.min.js",
+  "license": "MIT",
+  "bugs": {
+    "email": "manuel@hauss.ee"
+  },
+  "author": "Manuel Lõhmus <manuel@hauss.ee>",
+  "files": [
+    "index.js",
+    "index.min.js",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuel-lohmus/html-obj.git"
+  },
+  "homepage": "https://github.com/manuel-lohmus/html-obj#readme",
+  "dependencies": {
+    "xml-obj": "^1.0.0"
+  }
+}
