@@ -125,7 +125,7 @@
                     else if (key.substr(0, 2) === "#x")
                         strOutput += String.fromCharCode(parseInt(key.substr(2), 16));
                     else
-                        strOutput += String.fromCharCode(key.substr(1));
+                        strOutput += String.fromCodePoint(key.substr(1));
                 }
                 else
                     strOutput += char;
